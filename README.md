@@ -1,5 +1,7 @@
 # 0x1B. C - Sorting algorithms & Big O
 
+<img src="/sorting_algorithms/big_o.png" text-align="center">
+
 ## Description
 This project is a partner project part of the curriculum of ALx-Holberton School.
 Its aim is to explore, learn and implement most well-known sorting algorithms.
