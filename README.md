@@ -1,6 +1,5 @@
 # 0x1B. C - Sorting algorithms & Big O
-
-<img src="/sorting_algorithms/big_o.png" text-align="center">
+<img src=".big_o.jpg" text-align="center">
 
 ## Description
 This project is a partner project part of the curriculum of ALx-Holberton School.
